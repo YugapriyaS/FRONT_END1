@@ -1,0 +1,23 @@
+.part1{
+    height: 200px;
+    background-color: black;
+    color: red;
+}
+#name{
+    color: whitesmoke;
+}
+.part2{
+    height: fit-content;
+    background-color: greenyellow;
+    color: red;
+}
+.part3{
+    height: max-content;
+    background-color: royalblue;
+    color: pink;
+}
+.part4{
+    height: fit-content;
+    background-color: darkblue;
+    color: aqua;
+}
